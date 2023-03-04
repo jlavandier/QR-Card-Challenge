@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+- [Screenshot](#screenshot)
 - [Author](#author)
 
 ## Overview
@@ -14,7 +14,7 @@ This is a simple card in html with styles customize with CSS, as you can see is 
 
 ### Screenshot
 
-(../QR-Card/QR-Challenge-Desktop.png)
+![QR-Challenge-Desktop](https://user-images.githubusercontent.com/106609873/222870431-c23577ff-92b5-43b0-8e2e-a89205877229.png)
 
 ### Built with
 
